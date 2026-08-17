@@ -6,4 +6,4 @@
 
 ## Assignments
 
-- Assignment 1: `AasthaTyagi_1024160131_Assignment1.ipynb`
+- Assignment 1 and 2 : `AasthaTyagi_1024160131_Assignment1.ipynb`
