@@ -9,3 +9,5 @@
 - Assignment 1 and 2: `AasthaTyagi_1024160131_Assignment1.ipynb`
 - Assignment 3 (Pandas): `AasthaTyagi_1024160131_Assignment3.ipynb`
 - Assignment 4 (FAQ System): `AasthaTyagi_1024160131_Assignment4.ipynb`
+- Assignment 5 (NumPy-1): `AasthaTyagi_1024160131_Assignment5.ipynb`
+- Assignment 6 (NumPy-II): `AasthaTyagi_1024160131_Assignment6.ipynb`
