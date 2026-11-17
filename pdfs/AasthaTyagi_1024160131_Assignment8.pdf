@@ -1,0 +1,102 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 972 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+50 800 Td
+/F2 13 Tf
+(UCS420 Assignment 8 - NLP-II) Tj
+T*
+/F1 11 Tf
+(Name: Aastha Tyagi    Roll No.: 1024160131    UCS420) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q1) Tj
+T*
+/F1 11 Tf
+(Badminton paragraph. lowercase re punct. split vs word_tokenize. stopwords. frequencies.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q2) Tj
+T*
+/F1 11 Tf
+(alphabetic findall, Porter vs WordNet. Stem for indexes, lemma for real words.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q3) Tj
+T*
+/F1 11 Tf
+(3 campus texts. CountVectorizer and TfidfVectorizer. Top3 keywords per doc.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q4) Tj
+T*
+/F1 11 Tf
+(AI vs Blockchain. Jaccard low. Cosine TFIDF more informative.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q5) Tj
+T*
+/F1 11 Tf
+(VADER polarity on 5 reviews. Word cloud of positive reviews.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q6) Tj
+T*
+/F1 11 Tf
+(Keras Tokenizer + Dense next-word model. Generate from seeds badminton practice doubles.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000001283 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+1419
+%%EOF

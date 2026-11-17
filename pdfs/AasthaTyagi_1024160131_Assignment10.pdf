@@ -1,0 +1,105 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 983 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+50 800 Td
+/F2 13 Tf
+(UCS420 Assignment 10 - Diabetes Care) Tj
+T*
+/F1 11 Tf
+(Name: Aastha Tyagi    Roll No.: 1024160131    UCS420) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Track) Tj
+T*
+/F1 11 Tf
+(Odd roll 1024160131 Diabetes Care Assistant. 56 queries 7 intents.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Ontology) Tj
+T*
+/F1 11 Tf
+(5 major categories x2 subcats. 14 concepts 12 relations.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(ML) Tj
+T*
+/F1 11 Tf
+(TFIDF + Logistic Regression. accuracy precision recall F1 confusion matrix.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Rules) Tj
+T*
+/F1 11 Tf
+(emergency, low confidence, unsupported, dose-safety, disclaimer, pregnancy referral.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Tests) Tj
+T*
+/F1 11 Tf
+(each intent, paraphrase, unsupported fracture, vague query, collapse emergency. ipywidgets) Tj
+T*
+/F1 11 Tf
+(UI.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Disclaimer) Tj
+T*
+/F1 11 Tf
+(Course prototype. Not medical advice.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000001294 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+1430
+%%EOF

@@ -1,0 +1,129 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1531 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+50 800 Td
+/F2 13 Tf
+(UCS420 Assignment 7 - NLP-I) Tj
+T*
+/F1 11 Tf
+(Name: Aastha Tyagi    Roll No.: 1024160131    UCS420) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Starter) Tj
+T*
+/F1 11 Tf
+(ROLL 1024160131. generate_dataset and process_ticket unchanged. Fingerprint CF1D1CEE. 13) Tj
+T*
+/F1 11 Tf
+(tickets. Focus T02 T10. Run AasthaTyagi_1024160131_Assignment7.ipynb in Colab.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q1) Tj
+T*
+/F1 11 Tf
+(process_ticket on every ticket. Table of sentences, tokens, punct, stopwords, unique,) Tj
+T*
+/F1 11 Tf
+(final plus TOTAL. Selected T02.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q2) Tj
+T*
+/F1 11 Tf
+(findall long words, numbers 2.0.1 and 95.5 whole, capitals, vowel words. sub emails URLs) Tj
+T*
+/F1 11 Tf
+(phones. Also TEST_LINES.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q3) Tj
+T*
+/F1 11 Tf
+(one RegexpTokenizer keeps contractions hyphens versions emails URLs phones. Differs from) Tj
+T*
+/F1 11 Tf
+(word_tokenize on couldnt, e-mail, 2.0.1.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q4) Tj
+T*
+/F1 11 Tf
+(Porter Lancaster Regexp ing/ed/s WordNet+POS. Suffix ing from working disconnecting) Tj
+T*
+/F1 11 Tf
+(uploading. Lancaster server->serv.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q5) Tj
+T*
+/F1 11 Tf
+(S1 all S2 no punct S3 final S4 Porter. total unique TTR. Top10 Zipf bigrams.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+/F2 13 Tf
+(Q6) Tj
+T*
+/F1 11 Tf
+(\(a\) TTR rises then falls after stemming. \(b\) T11 couldnt split by NLTK. \(c\) server->serv.) Tj
+T*
+/F1 11 Tf
+(\(d\) was/is lemma be.) Tj
+T*
+/F1 11 Tf
+() Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000001843 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+1979
+%%EOF
